@@ -1,0 +1,373 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Aug 2021 14:34:51 at https://scisco.egemenerd.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://scisco.egemenerd.com/ -O1 "D:\project\ali2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:34:54	Warning: 	Note: due to https://scisco.egemenerd.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+14:37:10	Error: 	"Not Found" (404) at link https://scisco.egemenerd.com/wp-content/plugins/anspress-question-answer/templates/js-template (from https://scisco.egemenerd.com/)
+14:37:31	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/xmlrpc.php?rsd (from https://scisco.egemenerd.com/)
+14:37:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/wp-includes/wlwmanifest.xml (from https://scisco.egemenerd.com/)
+14:39:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/jobs/ (from https://scisco.egemenerd.com/)
+14:39:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/blog-3-columns/ (from https://scisco.egemenerd.com/)
+14:41:34	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/contact/ (from https://scisco.egemenerd.com/)
+14:41:35	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/wp-login.php (from https://scisco.egemenerd.com/)
+14:41:37	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/wp-login.php?action=register (from https://scisco.egemenerd.com/)
+14:41:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/my-account/lost-password/ (from https://scisco.egemenerd.com/)
+14:41:57	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=31769
+14:41:57	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=31769 to https://scisco.egemenerd.com/questions/question/dsfsdfsdf-sdfsd-fs-dsf/
+14:42:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/questions/categories/wordpress/ (from https://scisco.egemenerd.com/)
+14:42:14	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=31677
+14:42:14	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=31677 to https://scisco.egemenerd.com/questions/question/estudyguru-estudyguru-estudyguru-estudyguru-estudyguru-estudyguru-estudyguru/
+14:42:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/questions/categories/blogger/ (from https://scisco.egemenerd.com/)
+14:42:26	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=31539
+14:42:26	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=31539 to https://scisco.egemenerd.com/questions/question/att-siis-ssjsj-jsssjj/
+14:42:38	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=31064
+14:42:38	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=31064 to https://scisco.egemenerd.com/questions/question/im-from-colombo/
+14:43:45	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/contact (from https://scisco.egemenerd.com/)
+14:44:19	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2 (from https://scisco.egemenerd.com/)
+14:45:27	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/wp-content/plugins/contact-form-7/modules/recaptcha/script.js?ver=5.3.2 (from https://scisco.egemenerd.com/)
+14:45:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/wp-content/themes/scisco/js/popper.min.js?ver=4.3.1 (from https://scisco.egemenerd.com/)
+14:45:29	Warning: 	Note: due to scisco.egemenerd.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+14:45:29	Warning: 	Retry after error 409 (Conflict) at link scisco.egemenerd.com/wp-content/plugins/contact-form-7/assets/ajax-loader.gif (from https://scisco.egemenerd.com/wp-content/cache/autoptimize/css/autoptimize_a9762f478d0e3c934c727b8944642461.css)
+14:45:29	Warning: 	Retry after error -4 (No data (connection closed)) at link scisco.egemenerd.com/wp-content/plugins/woocommerce/assets/fonts/star.eot (from https://scisco.egemenerd.com/wp-content/cache/autoptimize/css/autoptimize_a9762f478d0e3c934c727b8944642461.css)
+14:45:30	Warning: 	Retry after error 409 () at link https://scisco.egemenerd.com/xmlrpc.php?rsd (from https://scisco.egemenerd.com/)
+14:45:30	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=8
+14:45:30	Warning: 	File has moved from https://scisco.egemenerd.com/?p=8 to https://scisco.egemenerd.com/questions/
+14:45:30	Warning: 	Moved Permanently for https://scisco.egemenerd.com/questions/?feed=rss2
+14:45:30	Warning: 	File has moved from https://scisco.egemenerd.com/questions/?feed=rss2 to https://scisco.egemenerd.com/questions/feed/
+14:45:30	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?post_type=answer&feed=rss2
+14:45:30	Warning: 	File has moved from https://scisco.egemenerd.com/?post_type=answer&feed=rss2 to https://scisco.egemenerd.com/feed/?post_type=answer
+14:45:37	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=31526
+14:45:37	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=31526 to https://scisco.egemenerd.com/questions/question/test-asdwasd-asdas-dad/answer/31526/
+14:45:47	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=31566
+14:45:47	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=31566 to https://scisco.egemenerd.com/questions/question/basic-computer-skills/answer/31566/
+14:45:59	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=31678
+14:45:59	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=31678 to https://scisco.egemenerd.com/questions/question/im-just-trying-this-theme/answer/31678/
+14:46:08	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=10047
+14:46:08	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=10047 to https://scisco.egemenerd.com/questions/question/test-test-jay/answer/10047/
+14:46:10	Error: 	"Error when decompressing" (-1) at link https://scisco.egemenerd.com/questions/question/ئەرێ-دروستەهگهگهگهگهگه/ (from https://scisco.egemenerd.com/questions/)
+14:46:10	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=5718
+14:46:10	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=5718 to https://scisco.egemenerd.com/questions/question/%d8%a6%db%95%d8%b1%db%8e-%d8%af%d8%b1%d9%88%d8%b3%d8%aa%db%95%d9%87%da%af%d9%87%da%af%d9%87%da%af%d9%87%da%af%d9%87%da%af%d9%87/
+14:46:17	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=3141
+14:46:17	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=3141 to https://scisco.egemenerd.com/questions/question/mohammed-salem/answer/3141/
+14:46:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/questions/page/3/ (from https://scisco.egemenerd.com/questions/)
+14:46:25	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 9119): https://scisco.egemenerd.com/wp-content/uploads/2020/11/avatar4-200x200.jpg
+14:47:08	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=146
+14:47:08	Warning: 	File has moved from https://scisco.egemenerd.com/?p=146 to https://scisco.egemenerd.com/questions/question/what-are-the-steps-you-can-take-if-your-wordpress-file-is-hacked/
+14:47:10	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/xmlrpc.php (from https://scisco.egemenerd.com/questions/question/what-are-the-steps-you-can-take-if-your-wordpress-file-is-hacked/)
+14:47:17	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=24
+14:47:17	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=24 to https://scisco.egemenerd.com/questions/question/what-are-the-steps-you-can-take-if-your-wordpress-file-is-hacked/#/comment/24
+14:47:50	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=149
+14:47:50	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=149 to https://scisco.egemenerd.com/questions/question/what-are-the-steps-you-can-take-if-your-wordpress-file-is-hacked/answer/149/
+14:48:14	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=146
+14:48:14	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=146 to https://scisco.egemenerd.com/questions/question/what-are-the-steps-you-can-take-if-your-wordpress-file-is-hacked/
+14:48:30	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=148
+14:48:30	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=148 to https://scisco.egemenerd.com/questions/question/what-are-the-steps-you-can-take-if-your-wordpress-file-is-hacked/answer/148/
+14:48:35	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=11
+14:48:35	Warning: 	File has moved from https://scisco.egemenerd.com/?p=11 to https://scisco.egemenerd.com/questions/categories/
+14:48:41	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=13
+14:48:41	Warning: 	File has moved from https://scisco.egemenerd.com/?p=13 to https://scisco.egemenerd.com/questions/activities/
+14:48:49	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=504
+14:48:49	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=504 to https://scisco.egemenerd.com/questions/question/test-asdwasd-asdas-dad/#/comment/504
+14:48:52	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=480
+14:48:52	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=480 to https://scisco.egemenerd.com/questions/question/basic-computer-skills/#/comment/480
+14:48:57	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=217
+14:48:57	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=217 to https://scisco.egemenerd.com/questions/question/im-just-trying-this-theme/#/comment/217
+14:50:12	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=9
+14:50:12	Warning: 	File has moved from https://scisco.egemenerd.com/?p=9 to https://scisco.egemenerd.com/questions/ask/
+14:50:15	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=59
+14:50:15	Warning: 	File has moved from https://scisco.egemenerd.com/?p=59 to https://scisco.egemenerd.com/user-directory/
+14:53:15	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=131
+14:53:15	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=131 to https://scisco.egemenerd.com/questions/question/what-are-the-types-of-hooks-in-wordpress-and-mention-their-functions/answer/131/
+14:53:46	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=104
+14:53:46	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=104 to https://scisco.egemenerd.com/questions/question/how-safe-is-a-website-on-wordpress/answer/104/
+14:59:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/tag/caesars-casino-online-free-slots/ (from https://scisco.egemenerd.com/blog/)
+15:00:53	Error: 	"Error when decompressing" (-1) at link https://scisco.egemenerd.com/tag/казино-онлайн-украина-рейтинг/ (from https://scisco.egemenerd.com/blog/)
+15:02:33	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=163
+15:02:33	Warning: 	File has moved from https://scisco.egemenerd.com/?p=163 to https://scisco.egemenerd.com/blog-4-columns/
+15:04:16	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=30
+15:04:16	Warning: 	File has moved from https://scisco.egemenerd.com/?p=30 to https://scisco.egemenerd.com/a-new-era-of-technology/
+15:04:45	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/wp-login.php?redirect_to=https%3A%2F%2Fscisco.egemenerd.com%2Fa-new-era-of-technology%2F (from https://scisco.egemenerd.com/a-new-era-of-technology/)
+15:08:53	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/contact/ (from https://scisco.egemenerd.com/)
+15:08:55	Warning: 	Retry after error 409 () at link https://scisco.egemenerd.com/wp-login.php (from https://scisco.egemenerd.com/)
+15:08:56	Warning: 	Retry after error 409 () at link https://scisco.egemenerd.com/wp-login.php?action=register (from https://scisco.egemenerd.com/)
+15:11:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/author/demo/feed/ (from https://scisco.egemenerd.com/questions/profile/demo/about/)
+15:11:03	Error: 	"Unauthorized" (401) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/14 (from https://scisco.egemenerd.com/questions/profile/demo/about/)
+15:11:15	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=31769
+15:11:15	Warning: 	File has moved from https://scisco.egemenerd.com/?p=31769 to https://scisco.egemenerd.com/questions/question/dsfsdfsdf-sdfsd-fs-dsf/
+15:11:16	Warning: 	Moved Permanently for https://scisco.egemenerd.com/questions/profile/demo/?paged=2
+15:11:16	Warning: 	File has moved from https://scisco.egemenerd.com/questions/profile/demo/?paged=2 to https://scisco.egemenerd.com/questions/profile/demo/page/2/
+15:11:18	Warning: 	Moved Permanently for https://scisco.egemenerd.com/questions/profile/demo/?paged=3
+15:11:18	Warning: 	File has moved from https://scisco.egemenerd.com/questions/profile/demo/?paged=3 to https://scisco.egemenerd.com/questions/profile/demo/page/3/
+15:11:18	Warning: 	Moved Permanently for https://scisco.egemenerd.com/questions/profile/demo/?paged=4
+15:11:18	Warning: 	File has moved from https://scisco.egemenerd.com/questions/profile/demo/?paged=4 to https://scisco.egemenerd.com/questions/profile/demo/page/4/
+15:11:20	Warning: 	Moved Permanently for https://scisco.egemenerd.com/questions/profile/demo/?paged=5
+15:11:20	Warning: 	File has moved from https://scisco.egemenerd.com/questions/profile/demo/?paged=5 to https://scisco.egemenerd.com/questions/profile/demo/page/5/
+15:11:28	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=31677
+15:11:28	Warning: 	File has moved from https://scisco.egemenerd.com/?p=31677 to https://scisco.egemenerd.com/questions/question/estudyguru-estudyguru-estudyguru-estudyguru-estudyguru-estudyguru-estudyguru/
+15:11:48	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=31539
+15:11:48	Warning: 	File has moved from https://scisco.egemenerd.com/?p=31539 to https://scisco.egemenerd.com/questions/question/att-siis-ssjsj-jsssjj/
+15:11:59	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=31064
+15:11:59	Warning: 	File has moved from https://scisco.egemenerd.com/?p=31064 to https://scisco.egemenerd.com/questions/question/im-from-colombo/
+15:12:00	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=32067
+15:12:00	Warning: 	File has moved from https://scisco.egemenerd.com/?p=32067 to https://scisco.egemenerd.com/finding-online-backgammon-64/
+15:12:03	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/wp-login.php?redirect_to=https%3A%2F%2Fscisco.egemenerd.com%2Ffinding-online-backgammon-64%2F (from https://scisco.egemenerd.com/finding-online-backgammon-64/)
+15:12:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/2322 (from https://scisco.egemenerd.com/author/tiffinyblanchett/)
+15:12:58	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=32065
+15:12:58	Warning: 	File has moved from https://scisco.egemenerd.com/?p=32065 to https://scisco.egemenerd.com/finding-online-backgammon-63/
+15:13:09	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/wp-login.php?redirect_to=https%3A%2F%2Fscisco.egemenerd.com%2Ffinding-online-backgammon-63%2F (from https://scisco.egemenerd.com/finding-online-backgammon-63/)
+15:13:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/1936 (from https://scisco.egemenerd.com/author/bkchermelinda/)
+15:14:14	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=32063
+15:14:14	Warning: 	File has moved from https://scisco.egemenerd.com/?p=32063 to https://scisco.egemenerd.com/slotland-online-casino-online-slot-tips-and-strategies-11/
+15:14:20	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/wp-login.php?redirect_to=https%3A%2F%2Fscisco.egemenerd.com%2Fslotland-online-casino-online-slot-tips-and-strategies-11%2F (from https://scisco.egemenerd.com/slotland-online-casino-online-slot-tips-and-strategies-11/)
+15:14:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/2062 (from https://scisco.egemenerd.com/author/carlota4316/)
+15:15:19	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=32061
+15:15:19	Warning: 	File has moved from https://scisco.egemenerd.com/?p=32061 to https://scisco.egemenerd.com/asia-casino-online-game-can-be-accessed-right-mow-12/
+15:15:25	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/wp-login.php?redirect_to=https%3A%2F%2Fscisco.egemenerd.com%2Fasia-casino-online-game-can-be-accessed-right-mow-12%2F (from https://scisco.egemenerd.com/asia-casino-online-game-can-be-accessed-right-mow-12/)
+15:15:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/2374 (from https://scisco.egemenerd.com/author/raycheek84478/)
+15:16:27	Warning: 	Retry after error 409 () at link https://scisco.egemenerd.com/contact (from https://scisco.egemenerd.com/)
+15:16:28	Error: 	"Not Found" (404) at link https://scisco.egemenerd.com/questions/categories/joomla/feed/ (from https://scisco.egemenerd.com/questions/categories/joomla/)
+15:16:34	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1504
+15:16:34	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1504 to https://scisco.egemenerd.com/questions/question/my-sample-question/answer/1504/
+15:16:41	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=60
+15:16:41	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=60 to https://scisco.egemenerd.com/questions/question/fgfdgdfgfd/#/comment/60
+15:16:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1354
+15:16:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1354 to https://scisco.egemenerd.com/questions/question/what-is-joomla/answer/1354/
+15:17:01	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=145
+15:17:01	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=145 to https://scisco.egemenerd.com/questions/question/explain-what-are-joomla-modules/answer/145/
+15:17:29	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=134
+15:17:29	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=134 to https://scisco.egemenerd.com/questions/question/list-out-the-benefits-of-using-joomla/answer/134/
+15:17:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=140
+15:17:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=140 to https://scisco.egemenerd.com/questions/question/what-database-system-does-joomla-supports/answer/140/
+15:18:10	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=135
+15:18:10	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=135 to https://scisco.egemenerd.com/questions/question/what-are-components-in-joomla/
+15:18:12	Error: 	"Not Found" (404) at link https://scisco.egemenerd.com/questions/categories/drupal/feed/ (from https://scisco.egemenerd.com/questions/categories/drupal/)
+15:18:14	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=1674
+15:18:14	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=1674 to https://scisco.egemenerd.com/questions/question/fafgadgadg/
+15:18:20	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=1561
+15:18:20	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=1561 to https://scisco.egemenerd.com/questions/question/whats-this/
+15:18:49	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=655
+15:18:49	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=655 to https://scisco.egemenerd.com/questions/question/hello-everyone/
+15:18:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=529
+15:18:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=529 to https://scisco.egemenerd.com/questions/question/themeforest-net/
+15:19:16	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=144
+15:19:16	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=144 to https://scisco.egemenerd.com/questions/question/mention-what-are-the-key-features-of-drupal/answer/144/
+15:19:42	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=132
+15:19:42	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=132 to https://scisco.egemenerd.com/questions/question/explain-how-database-system-of-drupal-works/
+15:19:45	Error: 	"Not Found" (404) at link https://scisco.egemenerd.com/questions/categories/open-cart/feed/ (from https://scisco.egemenerd.com/questions/categories/open-cart/)
+15:19:51	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=662
+15:19:51	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=662 to https://scisco.egemenerd.com/questions/question/help-with-this-problem/
+15:20:00	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=633
+15:20:00	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=633 to https://scisco.egemenerd.com/questions/question/oque-e-preciso-para-ser-um-bom-profissional/
+15:20:01	Error: 	"Not Found" (404) at link https://scisco.egemenerd.com/questions/categories/magento/feed/ (from https://scisco.egemenerd.com/questions/categories/magento/)
+15:20:04	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1353
+15:20:04	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1353 to https://scisco.egemenerd.com/questions/question/what-are-the-different-versions-of-magento/answer/1353/
+15:20:10	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=528
+15:20:10	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=528 to https://scisco.egemenerd.com/questions/question/i-have-a-question/answer/528/
+15:20:15	Warning: 	Retry after error 409 () at link https://scisco.egemenerd.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2 (from https://scisco.egemenerd.com/)
+15:20:26	Warning: 	Retry after error 409 () at link https://scisco.egemenerd.com/wp-content/plugins/contact-form-7/modules/recaptcha/script.js?ver=5.3.2 (from https://scisco.egemenerd.com/)
+15:20:26	Warning: 	Retry after error 409 () at link scisco.egemenerd.com/wp-content/plugins/contact-form-7/assets/ajax-loader.gif (from https://scisco.egemenerd.com/wp-content/cache/autoptimize/css/autoptimize_a9762f478d0e3c934c727b8944642461.css)
+15:20:26	Error: 	"" (409) after 2 retries at link https://scisco.egemenerd.com/xmlrpc.php?rsd (from https://scisco.egemenerd.com/)
+15:20:26	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=31525
+15:20:26	Warning: 	File has moved from https://scisco.egemenerd.com/?p=31525 to https://scisco.egemenerd.com/questions/question/test-asdwasd-asdas-dad/
+15:20:27	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=614
+15:20:27	Warning: 	File has moved from https://scisco.egemenerd.com/?p=614 to https://scisco.egemenerd.com/questions/question/basic-computer-skills/
+15:20:27	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=634
+15:20:27	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=634 to https://scisco.egemenerd.com/questions/question/basic-computer-skills/answer/634/
+15:20:27	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=7011
+15:20:27	Warning: 	File has moved from https://scisco.egemenerd.com/?p=7011 to https://scisco.egemenerd.com/questions/question/im-just-trying-this-theme/
+15:20:28	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=7708
+15:20:28	Warning: 	File has moved from https://scisco.egemenerd.com/?p=7708 to https://scisco.egemenerd.com/questions/question/test-test-jay/
+15:20:28	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=1670
+15:20:28	Warning: 	File has moved from https://scisco.egemenerd.com/?p=1670 to https://scisco.egemenerd.com/questions/question/mohammed-salem/
+15:20:34	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1399
+15:20:34	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1399 to https://scisco.egemenerd.com/questions/question/testtesttesttesttesttesttesttesttesttesttest/answer/1399/
+15:20:44	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=722
+15:20:44	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=722 to https://scisco.egemenerd.com/questions/question/todayfdgfggg/answer/722/
+15:20:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=56
+15:20:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=56 to https://scisco.egemenerd.com/questions/question/i-have-5000-bitcoin-how-to-make-them-cash/#/comment/56
+15:21:02	Warning: 	Moved Permanently for https://scisco.egemenerd.com/questions/page/1/
+15:21:02	Warning: 	File has moved from https://scisco.egemenerd.com/questions/page/1/ to https://scisco.egemenerd.com/questions/
+15:21:22	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=558
+15:21:22	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=558 to https://scisco.egemenerd.com/questions/question/hi-test-4-test/answer/558/
+15:21:32	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=557
+15:21:32	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=557 to https://scisco.egemenerd.com/questions/question/siapakah-penemu-combro-dan-bala-bala/answer/557/
+15:21:48	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=553
+15:21:48	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=553 to https://scisco.egemenerd.com/questions/question/demo-testing/answer/553/
+15:22:10	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=549
+15:22:10	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=549 to https://scisco.egemenerd.com/questions/question/can-the-gst-number-be-obtained-through-a-tan-issued-by-the-it-department-instead-of-pan/answer/549/
+15:22:19	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=538
+15:22:19	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=538 to https://scisco.egemenerd.com/questions/question/denedim-oldu/
+15:22:29	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=532
+15:22:29	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_q=532 to https://scisco.egemenerd.com/questions/question/deneme-bea/
+15:22:43	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=137
+15:22:43	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=137 to https://scisco.egemenerd.com/questions/question/why-does-wordpress-use-mysql/answer/137/
+15:23:13	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=143
+15:23:13	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=143 to https://scisco.egemenerd.com/questions/question/is-it-possible-to-rename-the-wordpress-folder/answer/143/
+15:23:31	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=18
+15:23:31	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=18 to https://scisco.egemenerd.com/questions/question/what-do-you-mean-by-a-custom-field-in-wordpress/#/comment/18
+15:23:41	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=113
+15:23:41	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=113 to https://scisco.egemenerd.com/questions/question/are-there-any-limitations-to-a-wordpress-website/answer/113/
+15:23:41	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=128
+15:23:41	Warning: 	File has moved from https://scisco.egemenerd.com/?p=128 to https://scisco.egemenerd.com/questions/question/what-are-the-different-versions-of-magento/
+15:23:53	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1336
+15:23:53	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1336 to https://scisco.egemenerd.com/questions/question/what-are-the-different-versions-of-magento/answer/1336/
+15:23:53	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=595
+15:23:53	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=595 to https://scisco.egemenerd.com/questions/question/what-are-the-different-versions-of-magento/answer/595/
+15:23:53	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=593
+15:23:53	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=593 to https://scisco.egemenerd.com/questions/question/what-are-the-different-versions-of-magento/answer/593/
+15:23:53	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=592
+15:23:53	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=592 to https://scisco.egemenerd.com/questions/question/what-are-the-different-versions-of-magento/answer/592/
+15:23:53	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=1391
+15:23:53	Warning: 	File has moved from https://scisco.egemenerd.com/?p=1391 to https://scisco.egemenerd.com/questions/question/my-sample-question/
+15:23:54	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1501
+15:23:54	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1501 to https://scisco.egemenerd.com/questions/question/my-sample-question/answer/1501/
+15:23:54	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1500
+15:23:54	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=1500 to https://scisco.egemenerd.com/questions/question/my-sample-question/answer/1500/
+15:23:54	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=563
+15:23:54	Warning: 	File has moved from https://scisco.egemenerd.com/?p=563 to https://scisco.egemenerd.com/questions/question/what-is-22/
+15:23:54	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=569
+15:23:54	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=569 to https://scisco.egemenerd.com/questions/question/what-is-22/answer/569/
+15:23:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=590
+15:23:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=590 to https://scisco.egemenerd.com/questions/question/what-is-22/answer/590/
+15:23:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=564
+15:23:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=564 to https://scisco.egemenerd.com/questions/question/what-is-22/answer/564/
+15:23:55	Warning: 	Retry after error 409 () at link https://scisco.egemenerd.com/xmlrpc.php (from https://scisco.egemenerd.com/questions/question/what-are-the-steps-you-can-take-if-your-wordpress-file-is-hacked/)
+15:23:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=146
+15:23:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=146 to https://scisco.egemenerd.com/questions/question/what-are-the-steps-you-can-take-if-your-wordpress-file-is-hacked/
+15:23:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=145
+15:23:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=145 to https://scisco.egemenerd.com/questions/question/explain-what-are-joomla-modules/answer/145/
+15:23:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=25
+15:23:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=25 to https://scisco.egemenerd.com/questions/question/i-have-a-question/#/comment/25
+15:23:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=144
+15:23:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=144 to https://scisco.egemenerd.com/questions/question/mention-what-are-the-key-features-of-drupal/answer/144/
+15:23:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=140
+15:23:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=140 to https://scisco.egemenerd.com/questions/question/what-database-system-does-joomla-supports/answer/140/
+15:23:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=20
+15:23:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=20 to https://scisco.egemenerd.com/questions/question/what-database-system-does-joomla-supports/#/comment/20
+15:23:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=131
+15:23:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=131 to https://scisco.egemenerd.com/questions/question/what-are-the-types-of-hooks-in-wordpress-and-mention-their-functions/answer/131/
+15:23:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=129
+15:23:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=129 to https://scisco.egemenerd.com/questions/question/what-are-the-types-of-hooks-in-wordpress-and-mention-their-functions/
+15:23:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=16
+15:23:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=16 to https://scisco.egemenerd.com/questions/question/list-out-the-benefits-of-using-joomla/#/comment/16
+15:23:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=10
+15:23:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=10 to https://scisco.egemenerd.com/questions/question/how-safe-is-a-website-on-wordpress/answer/104/#/comment/10
+15:23:55	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=102
+15:23:55	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=102 to https://scisco.egemenerd.com/questions/question/how-safe-is-a-website-on-wordpress/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=149
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=149 to https://scisco.egemenerd.com/questions/question/what-are-the-steps-you-can-take-if-your-wordpress-file-is-hacked/answer/149/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=23
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=23 to https://scisco.egemenerd.com/questions/question/what-are-the-steps-you-can-take-if-your-wordpress-file-is-hacked/#/comment/23
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=130
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=130 to https://scisco.egemenerd.com/questions/question/what-are-the-types-of-hooks-in-wordpress-and-mention-their-functions/answer/130/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=120
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=120 to https://scisco.egemenerd.com/questions/question/explain-what-are-joomla-modules/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=147
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=147 to https://scisco.egemenerd.com/questions/question/what-are-the-steps-you-can-take-if-your-wordpress-file-is-hacked/answer/147/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=134
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=134 to https://scisco.egemenerd.com/questions/question/list-out-the-benefits-of-using-joomla/answer/134/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=136
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=136 to https://scisco.egemenerd.com/questions/question/why-does-wordpress-use-mysql/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=19
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=19 to https://scisco.egemenerd.com/questions/question/mention-what-are-the-key-features-of-drupal/answer/127/#/comment/19
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=109
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=109 to https://scisco.egemenerd.com/questions/question/are-there-any-limitations-to-a-wordpress-website/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=13
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=13 to https://scisco.egemenerd.com/questions/question/how-safe-is-a-website-on-wordpress/answer/104/#/comment/13
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=103
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=103 to https://scisco.egemenerd.com/questions/question/how-safe-is-a-website-on-wordpress/answer/103/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=148
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=148 to https://scisco.egemenerd.com/questions/question/what-are-the-steps-you-can-take-if-your-wordpress-file-is-hacked/answer/148/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=22
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_c=22 to https://scisco.egemenerd.com/questions/question/what-are-the-steps-you-can-take-if-your-wordpress-file-is-hacked/#/comment/22
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=135
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=135 to https://scisco.egemenerd.com/questions/question/what-are-components-in-joomla/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=126
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=126 to https://scisco.egemenerd.com/questions/question/mention-what-are-the-key-features-of-drupal/answer/126/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=104
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=104 to https://scisco.egemenerd.com/questions/question/how-safe-is-a-website-on-wordpress/answer/104/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=7
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=7 to https://scisco.egemenerd.com/the-right-hand-of-business-it/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31769
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31769 to https://scisco.egemenerd.com/questions/question/dsfsdfsdf-sdfsd-fs-dsf/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31526
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31526 to https://scisco.egemenerd.com/questions/question/test-asdwasd-asdas-dad/answer/31526/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31678
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31678 to https://scisco.egemenerd.com/questions/question/im-just-trying-this-theme/answer/31678/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31677
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31677 to https://scisco.egemenerd.com/questions/question/estudyguru-estudyguru-estudyguru-estudyguru-estudyguru-estudyguru-estudyguru/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31566
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31566 to https://scisco.egemenerd.com/questions/question/basic-computer-skills/answer/31566/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31539
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31539 to https://scisco.egemenerd.com/questions/question/att-siis-ssjsj-jsssjj/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31525
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31525 to https://scisco.egemenerd.com/questions/question/test-asdwasd-asdas-dad/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31064
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=31064 to https://scisco.egemenerd.com/questions/question/im-from-colombo/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=10047
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=10047 to https://scisco.egemenerd.com/questions/question/test-test-jay/answer/10047/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=10046
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=10046 to https://scisco.egemenerd.com/questions/question/this-is-test-quatation-nbgh/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=7708
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=7708 to https://scisco.egemenerd.com/questions/question/test-test-jay/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=7011
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=7011 to https://scisco.egemenerd.com/questions/question/im-just-trying-this-theme/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=5718
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=5718 to https://scisco.egemenerd.com/questions/question/%d8%a6%db%95%d8%b1%db%8e-%d8%af%d8%b1%d9%88%d8%b3%d8%aa%db%95%d9%87%da%af%d9%87%da%af%d9%87%da%af%d9%87%da%af%d9%87%da%af%d9%87/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=3141
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=3141 to https://scisco.egemenerd.com/questions/question/mohammed-salem/answer/3141/
+15:23:56	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=1675
+15:23:56	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=1675 to https://scisco.egemenerd.com/questions/question/fgfdgdfgfd-2/answer/1675/
+15:23:58	Error: 	"Not Found" (404) at link https://scisco.egemenerd.com/wp-json/oembed/1.0/embed?url (from https://scisco.egemenerd.com/questions/question/this-is-test-quatation-nbgh/)
+15:23:58	Error: 	"Not Found" (404) at link https://scisco.egemenerd.com/wp-json/oembed/1.0/embed?url&format=xml (from https://scisco.egemenerd.com/questions/question/this-is-test-quatation-nbgh/)
+15:23:58	Error: 	"Unauthorized" (401) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/1474 (from https://scisco.egemenerd.com/questions/profile/ahmed1/)
+15:23:58	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=1674
+15:23:58	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=1674 to https://scisco.egemenerd.com/questions/question/fafgadgadg/
+15:23:58	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=1474
+15:23:58	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_p=1474 to https://scisco.egemenerd.com/grasp-your-golf-balls-in-5-minutes-a-day/
+15:23:58	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=1674
+15:23:58	Warning: 	File has moved from https://scisco.egemenerd.com/?p=1674 to https://scisco.egemenerd.com/questions/question/fafgadgadg/
+15:23:59	Error: 	"Unauthorized" (401) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/12873 (from https://scisco.egemenerd.com/questions/profile/aaroncolbert5/about/)
+15:24:00	Error: 	"Unauthorized" (401) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/7902 (from https://scisco.egemenerd.com/questions/profile/aaronspeckman87/about/)
+15:24:04	Error: 	"Unauthorized" (401) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/6007 (from https://scisco.egemenerd.com/questions/profile/aarontrott4/about/)
+15:24:05	Error: 	"Unauthorized" (401) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/4480 (from https://scisco.egemenerd.com/questions/profile/abbeymagee03643/about/)
+15:24:08	Error: 	"Unauthorized" (401) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/12736 (from https://scisco.egemenerd.com/questions/profile/abbeymahurin75/about/)
+15:24:09	Error: 	"Unauthorized" (401) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/355 (from https://scisco.egemenerd.com/questions/profile/abbie22g000/about/)
+15:24:13	Error: 	"Unauthorized" (401) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/6671 (from https://scisco.egemenerd.com/questions/profile/abbiehunt4539/about/)
+15:24:14	Error: 	"Unauthorized" (401) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/9232 (from https://scisco.egemenerd.com/questions/profile/abby68526597/about/)
+15:33:49	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=129
+15:33:49	Warning: 	File has moved from https://scisco.egemenerd.com/?p=129 to https://scisco.egemenerd.com/questions/question/what-are-the-types-of-hooks-in-wordpress-and-mention-their-functions/
+15:34:09	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=130
+15:34:09	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=130 to https://scisco.egemenerd.com/questions/question/what-are-the-types-of-hooks-in-wordpress-and-mention-their-functions/answer/130/
+15:34:14	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=102
+15:34:14	Warning: 	File has moved from https://scisco.egemenerd.com/?p=102 to https://scisco.egemenerd.com/questions/question/how-safe-is-a-website-on-wordpress/
+15:34:48	Warning: 	Found for https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=103
+15:34:48	Warning: 	File has moved from https://scisco.egemenerd.com/?ap_page=shortlink&ap_a=103 to https://scisco.egemenerd.com/questions/question/how-safe-is-a-website-on-wordpress/answer/103/
+15:35:00	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=289
+15:35:00	Warning: 	File has moved from https://scisco.egemenerd.com/?p=289 to https://scisco.egemenerd.com/jobs/
+15:35:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/job/ux-ui-web-designer-developer/ (from https://scisco.egemenerd.com/jobs/)
+15:35:57	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=32059
+15:35:57	Warning: 	File has moved from https://scisco.egemenerd.com/?p=32059 to https://scisco.egemenerd.com/gamble-your-methods-with-entertaining-casino-games-14/
+15:35:57	Error: 	"Error when decompressing" (-1) at link https://scisco.egemenerd.com/tag/달팽이게임/ (from https://scisco.egemenerd.com/gamble-your-methods-with-entertaining-casino-games-14/)
+15:35:57	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/wp-login.php?redirect_to=https%3A%2F%2Fscisco.egemenerd.com%2Fgamble-your-methods-with-entertaining-casino-games-14%2F (from https://scisco.egemenerd.com/gamble-your-methods-with-entertaining-casino-games-14/)
+15:36:57	Warning: 	Moved Permanently for https://scisco.egemenerd.com/?p=32057
+15:36:57	Warning: 	File has moved from https://scisco.egemenerd.com/?p=32057 to https://scisco.egemenerd.com/playing-casino-online-suggestions-for-a-secure-perform-11/
+15:37:02	Warning: 	Retry after error 409 (Conflict) at link https://scisco.egemenerd.com/wp-login.php?redirect_to=https%3A%2F%2Fscisco.egemenerd.com%2Fplaying-casino-online-suggestions-for-a-secure-perform-11%2F (from https://scisco.egemenerd.com/playing-casino-online-suggestions-for-a-secure-perform-11/)
+15:37:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scisco.egemenerd.com/wp-json/wp/v2/users/2166 (from https://scisco.egemenerd.com/author/elizbethfredrick/)
+15:37:34	Error: 	Exit requested by shell or user
+15:37:36	Warning: 	Moved Permanently for https://scisco.egemenerd.com/blog/page/1/
+15:37:36	Warning: 	File has moved from https://scisco.egemenerd.com/blog/page/1/ to https://scisco.egemenerd.com/blog/
+15:37:41	Error: 	Exit requested by shell or user
+15:37:41	Error: 	"" (-1) at link https://scisco.egemenerd.com/product-category/tshirts/?add-to-cart=246 (from https://scisco.egemenerd.com/product-category/tshirts/)
+15:37:41	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 2 minutes 50 seconds : 3172 links scanned, 2679 files written (125594065 bytes overall) [52968857 bytes received at 14050 bytes/sec], 102566889 bytes transferred using HTTP compression in 1870 files, ratio 27%, 1.0 requests per connection
+(25 errors, 333 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

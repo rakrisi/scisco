@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+scisco.egemenerd.com	TRUE	/	FALSE	1999999999	anspress_session	b13035895757962c02aad8e3ee2cc11e
+scisco.egemenerd.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+scisco.egemenerd.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_5e09770cb2dc4e9be242e46e4bd28151	3197ce3c7d419a4e1fb65b7e4b8dc440%7C%7C1629018703%7C%7C1629015103%7C%7C5f9e2783660210ce910b01d6632b80c0
+scisco.egemenerd.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	fce4439e47aa45802612793537573786
+
